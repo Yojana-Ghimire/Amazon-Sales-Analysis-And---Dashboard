@@ -1,1 +1,2 @@
-# Amazon-Sales-Analysis-And-Dashboard
+# Amazon-Sales-Analysis-Using-SQL-And-Dashboard
+

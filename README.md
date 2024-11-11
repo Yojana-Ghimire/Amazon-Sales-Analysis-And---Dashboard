@@ -43,4 +43,6 @@ The dataset contains sales records from three cities in Myanmar (Naypyitaw, Yang
 
 ---
 
-This project promises to offer actionable insights for enhancing sales strategy and customer engagement in different regions. If you need help with any specific SQL queries or visualizations, feel free to ask!
+For more interesting projects and insights, check out my other repositories! Let’s keep learning, keep growing, and continue exploring the power of data.
+
+

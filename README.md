@@ -4,9 +4,7 @@
 # Dashboard Using Power BI:
 ![image](https://github.com/user-attachments/assets/58fd0870-d4fa-40f7-8fdc-159744c2a0ed)
 
-Your project on analyzing Amazon Sales Data is laid out well! Here’s a refined summary and structure for clarity:
 
----
 
 ### **Objective of the Project**
 The primary goal of this project is to analyze Amazon sales data to gain insights into factors that influence sales across various cities and branches. By employing SQL for data exploration, we aim to identify sales trends, customer behaviors, and product performance.
